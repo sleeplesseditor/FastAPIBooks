@@ -6,7 +6,7 @@
 - [Running the Files Locally](#running-the-files-locally)
 
 ## Description
-An initial investigation into the use of FastAPI, and the use of CRUD operations, as part of coursework for [Eric Roby's Udemy course](https://www.udemy.com/course/fastapi-the-complete-course). 
+An initial investigation into the use of FastAPI, and the use of CRUD operations, as part of coursework for [Eric Roby's Udemy course](https://www.udemy.com/course/fastapi-the-complete-course). `books.py` focuses on general CRUD operations, whilst `books2.py` focuses on the use of Pydantic and data validation. 
 
 ## Example Screenshots
 <img width="1919" height="841" alt="Screenshot 2026-09-14 at 11 03 31" src="https://github.com/user-attachments/assets/68ca7597-ad75-4ef7-845d-f7e071edcea5" />
