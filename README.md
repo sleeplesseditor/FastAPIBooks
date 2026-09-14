@@ -9,7 +9,7 @@
 An initial investigation into the use of FastAPI, and the use of CRUD operations 
 
 ## Example Screenshots
-![Screenshot 2026-09-14 at 11.03.31.png](../../../../Screenshot%202026-09-14%20at%2011.03.31.png)
+<img width="1919" height="841" alt="Screenshot 2026-09-14 at 11 03 31" src="https://github.com/user-attachments/assets/68ca7597-ad75-4ef7-845d-f7e071edcea5" />
 Example of Swagger displaying initial endpoints for books2.py
 
 ## Running the Files Locally
